@@ -1,0 +1,9 @@
+Partlist exported from /Users/jacobrosenthal/Documents/Boards/haptic-extender/haptic-extender.sch at 5/14/13 12:16 AM
+
+Qty Value          Device           Parts           P/N
+1                  LEDCHIP-LED0805  LED1            160-1179-1-ND
+1   0.01uF         CAP0805          C1              399-1158-1-ND
+3   10k            RESISTOR0805-RES R1, R2, R3      P10KACT-ND
+1   470            RESISTOR0805-RES R4              P470CCT-ND
+1   BUS-EXTENDER   BUS-EXTENDER     U$1             296-30189-1-ND
+3   S4B-ZR-SM4A-TF S4B-ZR-SM4A-TF   IN, IN1, OUT1   455-1695-1-ND
